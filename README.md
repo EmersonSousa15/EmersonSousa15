@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Emerson, e sou desenvolvedor web. É um prazer ter você aqui!</h2>
+<!--<h2 align="left">Olá 👋! Meu nome é Emerson, e sou desenvolvedor web. É um prazer ter você aqui!</h2>
 
 ###
 
@@ -37,3 +37,4 @@
 <img src="https://raw.githubusercontent.com/EmersonSousa15/EmersonSousa15/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
