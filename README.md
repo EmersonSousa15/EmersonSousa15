@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs <br>📚 I'm currently learning Computer Science <br>🎯 Goals: Create more projects<br>🎲 Fun fact: I get a weird amount of joy from seeing clean code — it’s like poetry, but with semicolons!</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
