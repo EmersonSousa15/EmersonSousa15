@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emerson, and I'm a front-end engineer from Brazil. I specialize in building responsive, user-friendly interfaces using modern web technologies like React, TailwindCSS, and JavaScript. I'm passionate about creating seamless user experiences and continuously learning new tools and techniques to improve my skills.</p>
+<p align="left">My name is Emerson, and I'm a front-end developer from Brazil. I specialize in building responsive, user-friendly interfaces using modern web technologies like React, TailwindCSS, and JavaScript. I'm passionate about creating seamless user experiences and continuously learning new tools and techniques to improve my skills.</p>
 
 ###
 
